@@ -1,0 +1,12 @@
+{% extends "layouts/default.twig" %}
+
+{% set title = "Title" %}
+
+{% block head %}
+  <link rel="stylesheet" href="/src/styles/index.sass">
+  <script type="module" src="/src/scripts/index.js"></script>
+{% endblock %}
+
+{% block page %}
+  {% include "components/blocks/index/content.twig" %}
+{% endblock %}
