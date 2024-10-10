@@ -9,11 +9,11 @@
 		"preview": "vite preview"
 	},
 	"devDependencies": {
-		"@types/node": "20.11.27",
+		"@types/node": "22.7.5",
 		"@vituum/vite-plugin-twig": "1.1.0",
-		"rollup": "4.13.0",
-		"sass": "1.71.1",
-		"vite": "5.1.6",
-		"vituum": "1.1.0"
+		"rollup": "4.24.0",
+		"sass": "1.79.4",
+		"vite": "5.4.8",
+		"vituum": "1.1.1"
 	}
 }
